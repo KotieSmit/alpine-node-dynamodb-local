@@ -1,4 +1,4 @@
-FROM alpine:6.9
+FROM ej52/alpine-node:6.9
 MAINTAINER kotiesmit@gmail.com
 
 RUN \
